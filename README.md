@@ -1,17 +1,6 @@
-# Nüwa
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/truman-misfit/nvwa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-![Travis-CI](https://travis-ci.org/truman-misfit/nvwa.svg)
-[![Coverage Status](https://coveralls.io/repos/truman-misfit/nvwa/badge.svg?branch=master)](https://coveralls.io/r/truman-misfit/nvwa?branch=master)
-
-This is a archetype project (or seed project) for building up micro-service.
-
-Nüwa, also known as Nügua, is a goddess in ancient Chinese mythology best known for creating mankind and repairing the pillar of heaven. (from [Wikipedia](https://en.wikipedia.org/wiki/N%C3%BCwa))
 
 # Features
 * BDD with cucumber-jvm
-* Stream module
-* Travis-CI & Coveralls support
 
 # Requirements
 * Java 1.8.0_05 or above
@@ -28,12 +17,6 @@ Nüwa, also known as Nügua, is a goddess in ancient Chinese mythology best know
 #### 1.3 Install [Activator](https://www.typesafe.com/get-started) (Activator 1.3.4 or above)**
 
 Both mini-package and full-package are OK.
-
-#### 1.4 Git pull repo
-
-* _Step 1_. pull repo
-```
-git clone https://github.com/truman-misfit/nvwa.git
 ```
 
 * _Step 2_. activator run
